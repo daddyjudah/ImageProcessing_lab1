@@ -1,0 +1,6 @@
+{
+    "accuracy_cnn": 0.9607843137254902,
+    "accuracy_svm": 0.9607843137254902,
+    "accuracy_knn": 0.9019607843137255,
+    "best_model_name": "cnn"
+}
